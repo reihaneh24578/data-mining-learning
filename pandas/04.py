@@ -1,0 +1,11 @@
+import pandas as pd
+df = pd.read_csv(r"D:\practice machine learning\pandas\04.csv")
+print(df.head())
+print(df.nlargest(10, "rating"))
+print(df.loc[df.groupby("genre")["rating"].idxmax()])
+print(df.groupby("genre")["rating"].mean())
+print(df["year"].value_counts())
+print(df.loc[df["year"].value_counts().max()])
+print(df)
+print(df.loc[df["revenue"].idxmax()])
+print(df["votes"].corr(df["rating"]))

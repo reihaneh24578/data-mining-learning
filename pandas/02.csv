@@ -1,0 +1,17 @@
+date,product,category,price,quantity,city
+1/5/2026,Laptop,Electronics,800,2,Tehran
+1/12/2026,Mouse,Accessories,25,10,Mashhad
+1/20/2026,Keyboard,Accessories,50,5,Shiraz
+2/3/2026,Laptop,Electronics,800,1,Tehran
+2/15/2026,Headphone,Accessories,70,8,Mashhad
+2/28/2026,Mouse,Accessories,25,15,Tehran
+3/4/2026,Keyboard,Accessories,50,12,Shiraz
+3/18/2026,Laptop,Electronics,800,3,Mashhad
+3/25/2026,Monitor,Electronics,250,4,Tehran
+4/2/2026,Mouse,Accessories,25,20,Shiraz
+4/14/2026,Headphone,Accessories,70,6,Mashhad
+4/27/2026,Monitor,Electronics,250,5,Tehran
+5/5/2026,Laptop,Electronics,800,2,Tehran
+5/19/2026,Keyboard,Accessories,50,10,Mashhad
+5/30/2026,Mouse,Accessories,25,25,Shiraz
+,,,,128,
