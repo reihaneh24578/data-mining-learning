@@ -10,7 +10,6 @@ The main goal of this repository is to document my learning progress and practic
 * NumPy
 * Pandas
 * Matplotlib
-* Seaborn
 * Scikit-learn
 * Machine Learning
 
@@ -33,8 +32,8 @@ data-science-learning/
 
 * [x] Python
 * [x] NumPy
-* [ ] Pandas
-* [ ] Matplotlib
+* [x] pandas
+* [x] matplotlib
 * [ ] Seaborn
 * [ ] Scikit-learn
 * [ ] Machine Learning
